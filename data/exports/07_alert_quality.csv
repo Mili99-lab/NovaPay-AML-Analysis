@@ -1,0 +1,7 @@
+Metric,Value,Category
+True Negative,6354407.0,Correct
+False Negative,8197.0,Error
+True Positive,16.0,Correct
+False Positive,0.0,Error
+Precision %,100.0,Performance
+Recall %,0.19,Performance

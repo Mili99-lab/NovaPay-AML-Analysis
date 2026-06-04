@@ -1,0 +1,1 @@
+customer_id,transaction_count,active_hours,transactions_per_hour,first_seen_hour,last_seen_hour,hour_span,total_amount,fraud_count,velocity_risk
